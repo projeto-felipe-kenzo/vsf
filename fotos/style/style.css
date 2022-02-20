@@ -1,0 +1,31 @@
+
+h1 {
+ font-size: 50px;
+ text-align: center;
+ margin-top: 70px;
+}
+
+.imgcapa{
+    width: 250px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    
+ 
+}
+
+.center {  
+    width:250px;
+    margin-top: auto;
+    position: absolute;
+    margin-bottom: auto;
+    display: inline;
+    
+    
+}
+body{
+    align-items: center;
+}
+.positionrelative{
+    position: relative;
+}

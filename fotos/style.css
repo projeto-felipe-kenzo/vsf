@@ -1,0 +1,22 @@
+
+h1 {
+ font-size: 50px;
+ text-align: center;
+ margin-top: 70px;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 1vw;
+    justify-content: space-between;
+    grid-gap: 2vw;
+
+}
+.itens{
+    width:200px; 
+    height:200px;
+}
+img,p {
+    display: inline-block;
+}
